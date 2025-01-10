@@ -2,15 +2,15 @@
 const portfolioItems = [
   {
     title: "Movie App",
-    image: "/src/assets/1.png", // Replace with actual image paths
+    image: "/1.png", // Replace with actual image paths
   },
   {
     title: "Interior Design",
-    image: "/src/assets/2.png",
+    image: "/2.png",
   },
   {
     title: "Corporate Website",
-    image: "/src/assets/3.png",
+    image: "/3.png",
   },
 ];
 

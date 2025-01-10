@@ -24,7 +24,7 @@ const HeroSection = () => {
         <div className="relative">
           <div className="relative z-10">
             <img
-              src="/src/assets/hero-image.png"
+              src="/hero-image.png"
               alt="Hero Image"
               className="max-w-full h-auto rounded-lg"
             />

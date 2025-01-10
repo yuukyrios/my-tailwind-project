@@ -8,7 +8,7 @@ const Navbar = () => {
       <div className="container mx-auto flex items-center justify-between px-4 py-4">
         {/* Logo Section */}
         <div className="flex items-center space-x-2">
-          <img src="./src/assets/logo-e.png" alt="Logo" className="h-16 w-16" />
+          <img src="/logo-e.png" alt="Logo" className="h-16 w-16" />
           <span className="text-xl font-semibold">Enver</span>
         </div>
 
